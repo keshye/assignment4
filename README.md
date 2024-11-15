@@ -55,7 +55,8 @@ Realistic planning:
 How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 
 Effective cost control is a cornerstone of successful software project management. It ensures that the project stays within budget, maximizes resource utilization, and ultimately contributes to the overall profitability of the project.    
-      How It Contributes;
+      
+How It Contributes;
 .Risk Mitigation: By closely monitoring costs, project managers can identify potential cost overruns early on and take proactive measures to mitigate risks.   
 
 .Enhanced Decision-Making: Accurate cost data enables informed decision-making about resource allocation, feature prioritization, and potential trade-offs.   

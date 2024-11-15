@@ -14,6 +14,7 @@ Why is timely delivery crucial in software project management, and how can proje
 
 To ensure timely delivery, project managers can employ the following strategies:
     Realistic planning
+
 1.Accurate Estimation: Use proven techniques like work breakdown structure (WBS) and estimation methods to accurately assess the time required for each task.   
 
 2.Contingency Planning: Account for potential risks and delays by allocating buffer time.

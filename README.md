@@ -12,8 +12,9 @@ Why is timely delivery crucial in software project management, and how can proje
 
 5.Risk Mitigation: Delayed projects increase the risk of unforeseen issues, such as changing requirements or technological advancements, which can further complicate the development process.
 
-To ensure timely delivery, project managers can employ the following strategies:
-    Realistic planning
+To ensure timely delivery, project managers can employ the following strategies
+    
+Realistic planning:
 
 1.Accurate Estimation: Use proven techniques like work breakdown structure (WBS) and estimation methods to accurately assess the time required for each task.   
 
